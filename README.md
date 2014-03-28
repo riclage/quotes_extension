@@ -1,5 +1,4 @@
 Quotes Extension for AlarmPad
-
 =============================
 
 This is a working example of an extension that works with the Android app AlarmPad available for free on the [Play Store](https://play.google.com/store/apps/details?id=com.mindmeapp.alarmpad). 
