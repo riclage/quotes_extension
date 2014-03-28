@@ -8,4 +8,4 @@ AlarmPad is an alarm clock that brings context to your alarms. Once you set one 
 With extensions like this one, you can now add your own custom views to the alarms. Once it rings, the data provided by the extension will be shown in a summary on the alarm's front page linking to details in its own custom view. You can [download this app](https://play.google.com/store/apps/details?id=com.mindmeapp.extensions.quotes) for free to see it working in practice with AlarmPad.
 
 ## Credits
-This work would not have been possible without the open source code of [Roman Nurik](https://plus.google.com/u/0/+RomanNurik/)'s [DashClock](https://code.google.com/p/dashclock/wiki/API). Thank you very much for making it available.
+This work would not have been possible without [Roman Nurik](https://plus.google.com/u/0/+RomanNurik/)'s open source [DashClock](https://code.google.com/p/dashclock/wiki/API) app. Thank you very much for making it available.
