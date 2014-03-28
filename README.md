@@ -20,5 +20,11 @@ Once you have both AlarmPad and your custom extension installed, you should be a
 ## API source code
 The full source code for the API and its reference documentation are available [here](https://github.com/riclage/mindme_extensions_api).
 
+## Get AlarmPad test version
+Extensions are currently only supported on AlarmPad's test version. You can get it by joining the Google+ community at [https://plus.google.com/communities/113108980221311144145](https://plus.google.com/communities/113108980221311144145). Once you join the community, you need to also [join the test](https://play.google.com/apps/testing/com.mindmeapp.alarmpad) to download this version from the Play Store. 
+
+## Get help
+Please contact me at any time if you need any help by sending an e-mail to alarmpad (at) mindmeapp (dot) com.
+
 ## Credits
 This work would not have been possible without [Roman Nurik](https://plus.google.com/u/0/+RomanNurik/)'s open source [DashClock](https://code.google.com/p/dashclock/wiki/API) app. Thank you very much for making it available.
