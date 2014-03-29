@@ -12,7 +12,7 @@ With extensions like this one, you can now add your own custom views to the alar
 Extensions like this one are very easy to create and work the same way [DashClock extensions](https://code.google.com/p/dashclock/wiki/API) do:
 
 1. Download and add the [API jar](https://github.com/riclage/quotes_extension/blob/master/libs/alarmpad-api-r1.0.jar?raw=true) file to your Android project;
-2. Create a new service that extends the MindMeExtension class;
+2. Create a new service that extends the [MindMeExtension](http://riclage.github.io/extensions-api/com/mindmeapp/extensions/MindMeExtension.html) class;
 3. Add the corresponding <service> tag to your AndroidManifest.xml file and add the required <intent-filter> and <meta-data> elements.
 
 Once you have both AlarmPad and your custom extension installed, you should be able to add your extension from AlarmPad's 'Manage Extensions' menu option.
