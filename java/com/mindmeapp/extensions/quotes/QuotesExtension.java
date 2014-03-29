@@ -47,6 +47,7 @@ public class QuotesExtension extends MindMeExtension {
         publishUpdate(new ExtensionData()
                 .visible(true)
                 .icon(R.drawable.ic_action_book)
+                .background(R.drawable.background)
                 .statusToDisplay(q.quote + " (" + q.author + ")")
                 .statusToSpeak(q.quote)
                 .languageToSpeak(Locale.US)
