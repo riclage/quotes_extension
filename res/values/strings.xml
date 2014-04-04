@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <!--
   Copyright 2013 Google Inc.
 
@@ -14,11 +15,14 @@
   limitations under the License.
   -->
 
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Simple Quotes Extension for AlarmPad</string>
     <string name="extension_title">Simple Quotes Extension</string>
     <string name="extension_description">Displays a new quote every time the alarm rings.</string>
     <string name="pref_speak_before">Sentence to speak before the quote</string>
     <string name="pref_speak_before_default">The quote of the day is: </string>
     <string name="title_settings">Simple Quotes Settings</string>
+    <string name="pref_display_wallpaper_title">Display custom wallpaper</string>
+    <string name="pref_display_wallpaper_summary">Displays a custom wallpaper on the background of the alarm ringing</string>
+    <string name="content_description">Quote from <xliff:g id="author">%1$s</xliff:g>: <xliff:g id="quote">%2$s</xliff:g></string>
 </resources>

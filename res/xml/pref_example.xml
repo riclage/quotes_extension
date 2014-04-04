@@ -27,5 +27,11 @@
         android:capitalize="words"
         android:singleLine="true"
         android:maxLines="1" />
+    
+    <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="pref_display_wallpaper"
+            android:summary="@string/pref_display_wallpaper_summary"
+            android:title="@string/pref_display_wallpaper_title" />    
 
 </PreferenceScreen>
